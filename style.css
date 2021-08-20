@@ -1,0 +1,51 @@
+body {
+    
+    text-align: center;
+}
+#ju{
+     background: linear-gradient(#d303fc 0%, skyblue 100%);
+}
+#about{
+    background-color: cadetblue;
+}
+
+
+
+
+.menu{
+    list-style:none;
+    font font-family: cusive;
+    float: center;
+    top: 10 px;
+    right:30 px;
+    cursor: pointer;
+    color: white;
+    background: firebrick;
+}
+
+
+
+.link:hover{
+    background-color: dodgerblue;
+    font-size: 25px;
+    
+}
+
+
+img:hover{
+ transform: scale(o.9);
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
